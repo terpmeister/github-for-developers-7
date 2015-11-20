@@ -5,3 +5,6 @@ My name is terpmeister
 * o
 
 ### Favorite Color: Black
+
+- [ ] creating my funky task list
+- [x] this puppy is done
